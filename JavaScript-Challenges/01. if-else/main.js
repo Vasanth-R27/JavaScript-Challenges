@@ -2,7 +2,7 @@
 
 //  Notification from phone's battery percentage
 
-const batteryPercent = "100%";
+const batteryPercent = "20%";
 
 if (batteryPercent == "100%") {
   console.log("Your battery is fully charged");
